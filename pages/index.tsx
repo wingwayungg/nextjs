@@ -23,7 +23,7 @@ export default function Home() {
                 <Avatar sx={{ bgcolor: "orange" }}>H</Avatar>
                 <span style={{ color: "white" }}>92198360</span>
                 <span className="fs-1" style={{ color: "red" }}>
-                    餘額: 0
+                    餘額: 5,000,000
                 </span>
                 <div className="d-flex">
                     <Button className="mx-5 btn-lg" variant="contained" style={{ padding: "10px 40px" }}>
